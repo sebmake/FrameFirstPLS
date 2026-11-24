@@ -1,0 +1,22 @@
+{
+  "name": "framefirstpls",
+  "metadata": {
+    "description": "FrameFirstPLS: skills that frame a product subject before anyone specs or designs it."
+  },
+  "owner": {
+    "name": "sebmake"
+  },
+  "plugins": [
+    {
+      "name": "sebmake-framing-brief",
+      "description": "Sizes a subject, asks what only you know, and writes the one-page framing brief, an A4 executive summary or a brief map, then checks whether it can freeze.",
+      "version": "1.0.0",
+      "author": {
+        "name": "sebmake"
+      },
+      "source": "./sebmake-framing-brief",
+      "category": "productivity",
+      "homepage": "https://github.com/sebmake/FrameFirstPLS"
+    }
+  ]
+}
